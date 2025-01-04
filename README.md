@@ -8,7 +8,3 @@
 
 </br>
 </br>
-
-<div align="center">
-    <h1>About this bot 💬</h1>
-</div>
