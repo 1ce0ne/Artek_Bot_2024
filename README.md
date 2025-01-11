@@ -1,4 +1,9 @@
 <div align="center">
+<h1>Under revision</h1>
+</div>
+
+
+<div align="center">
 <h1>Hi, this is Artek_2024 Bot 👋</h1>
 </div>
 
@@ -8,10 +13,6 @@
 
 </br>
 </br>
-
-<div align="center">
-<h1>Under revision</h1>
-</div>
 
 <div align="center">
     <h1>About this bot 💬</h1>
